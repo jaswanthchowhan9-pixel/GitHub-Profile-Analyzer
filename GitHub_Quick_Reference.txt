@@ -1,0 +1,48 @@
+⚡ QUICK GITHUB PUSH (5 STEPS)
+================================
+
+Step 1: Create Repo on GitHub
+→ Go to https://github.com/new
+→ Name: ai-coding-assistant
+→ Create repo
+→ Copy the URL
+
+Step 2: Navigate to Project
+→ cd path/to/ai-coding-assistant
+
+Step 3: Initialize Git
+→ git init
+→ git config --global user.name "Your Name"
+→ git config --global user.email "your@email.com"
+→ git remote add origin PASTE_YOUR_URL_HERE
+
+Step 4: Commit Everything
+→ git add .
+→ git commit -m "Initial commit: AI Coding Assistant"
+→ git branch -M main
+
+Step 5: Push to GitHub
+→ git push -u origin main
+
+✅ DONE! Your code is on GitHub!
+
+═══════════════════════════════════════
+
+If you get auth error:
+→ Use Personal Access Token (recommended)
+→ Go: GitHub → Settings → Developer settings → Personal access tokens
+→ Generate new token → Select "repo" → Copy token
+→ When asked for password, paste token
+
+═══════════════════════════════════════
+
+Your repo URL:
+https://github.com/YOUR_USERNAME/ai-coding-assistant
+
+═══════════════════════════════════════
+
+After pushing, you can:
+✓ Deploy to Streamlit Cloud
+✓ Share with others  
+✓ Collaborate with team
+✓ Track changes
